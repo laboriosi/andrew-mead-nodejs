@@ -4,7 +4,10 @@
 
 ## Projects
 
-### [- Notes](https://github.com/marcos-laboriosi/andrew-mead-nodejs/blob/main/notes-app/README.md)
+### [- Notes](https://github.com/marcos-laboriosi/andrew-mead-nodejs/tree/main/notes-app)
+
 ### [- Weather]()
+
 ### [- Task]()
+
 ### [- Chat]()
